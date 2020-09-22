@@ -1,13 +1,13 @@
 ## DarkBot
 
-DarkBot is a legendary bot for most of your needs. Fun Commands, Moderation, Images, what else would you need?
+DarkBot is a legendary bot for most of your needs. Fun Commands, Moderation, Images, what else would you need? *No warn command*
 
 
 Want to experiment with DarkBot before you start? [Join our Discord!](https://discord.gg/YQvTPCc) 
 
 ### About
 
-DarkBot is coded by the newcomer for coding, DarkDev#3275. DarkBot was coded in discord.py, a Python Discord API Wrapper 🐍. 
+DarkBot is coded by the newcomer for coding, DarkDev#3275. DarkkBot was coded in discord.py, a Python Discord API Wrapper 🐍. 
 
 ### Source Code
 
@@ -23,7 +23,7 @@ Like the bot? Well you may as well [invite](https://discord.com/api/oauth2/autho
 
 ### Help Develop DarkBot
 
-[Click Here](https://forms.gle/v5wjJ5WcPoqRvyzM6)
+[Click Here!](https://forms.gle/v5wjJ5WcPoqRvyzM6)
 
 
 ### Upsides and Downsides
