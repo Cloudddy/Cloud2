@@ -15,7 +15,7 @@ Want the source code? [Click Here!](https://github.com/DarkkDev/DarkBot/blob/gh-
 
 ### Other Projects
 
-I have not been just coding DarkBot, I also have another project. Chloebot. Sometimes, if someone requests, I will make a custom bot for them. For now, it is private.
+I have not been just coding DarkBot, I also have another project. Chloebot. Sometimes, if someone requests, I will make a custom bot for them. For now, it is private. Want to go to the main site? [Click Here](https://darkkdeveloper.github.io)
 
 ### Invite Link
 
