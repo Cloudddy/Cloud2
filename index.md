@@ -1,37 +1,64 @@
-## Welcome to GitHub Pages
+## DarkBot
 
-You can use the [editor on GitHub](https://github.com/DarkkDev/DarkBot/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+DarkBot is a legendary bot for most of your needs. Fun Commands, Moderation, Images, what else would you need?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+Want to experiment with DarkBot before you start? [Join our Discord!](https://discord.gg/YQvTPCc) 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### About
 
-```markdown
-Syntax highlighted code block
+DarkBot is coded by the newcomer for coding, DarkDev#3275. DarkBot was coded in discord.py, a Python Discord API Wrapper 🐍. 
 
-# Header 1
-## Header 2
-### Header 3
+### Source Code
 
-- Bulleted
-- List
+Want the source code? [Click Here!](https://github.com/DarkkDev/DarkBot/blob/gh-pages/source.py)
 
-1. Numbered
-2. List
+### Other Projects
 
-**Bold** and _Italic_ and `Code` text
+I have not been just coding DarkBot, I also have another project. Chloebot. Sometimes, if someone requests, I will make a custom bot for them. For now, it is private.
 
-[Link](url) and ![Image](src)
-```
+### Invite Link
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Like the bot? Well you may as well [invite](https://discord.com/api/oauth2/authorize?client_id=749823850660757545&permissions=268453894&redirect_uri=https%3A%2F%2Fdarkkdev.github.io%2F&scope=bot) it!
 
-### Jekyll Themes
+### Help Develop DarkBot
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DarkkDev/DarkBot/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Click Here](https://forms.gle/v5wjJ5WcPoqRvyzM6)
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Upsides and Downsides
+
+Upsides | Downsides
+------------ | -------------
+Fun bot | Still in Beta
+Moderation Works | No Warn Command
+
+### History
+
+#### Logo Updates
+
+
+Old
+
+![Swirl (Old)](https://cdn.discordapp.com/attachments/753022422122364991/757811197658529892/images_5.jpeg)
+
+
+Current
+
+![DarkBot (Current)](https://cdn.discordapp.com/attachments/753022422122364991/757811382820405338/images_1.jpg)
+
+#### Name Changes
+
+Start - 22/09/2020
+Swirl
+
+22/09/2020 - Now
+DarkBot
+
+
+
+
+
+
+
+###### DarkBot 2020
