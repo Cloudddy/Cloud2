@@ -1,21 +1,21 @@
-## DarkBot
+## Cloud2
 
-DarkBot is a legendary bot for most of your needs. Fun Commands, Moderation, Images, what else would you need? *No warn command*
+Cloud2 is a legendary bot for most of your needs. Fun Commands, Moderation, Images, what else would you need? *No warn command*
 
 
 Want to experiment with DarkBot before you start? [Join our Discord!](https://discord.gg/YQvTPCc) 
 
 ### About
 
-DarkBot is coded by the newcomer for coding, DarkDev#3275. DarkkBot was coded in discord.py, a Python Discord API Wrapper 🐍. 
+DarkBot is coded by the newcomer for coding, DarkDev#3743. DarkkBot was coded in discord.py, a Python Discord API Wrapper 🐍. 
 
 ### Source Code
 
-Want the source code? [Click Here!](https://github.com/DarkkDev/DarkBot/blob/gh-pages/source.py)
+Want the source code? [Click Here!](https://github.com/Cloudddy/Cloud2/blob/gh-pages/bot.py)
 
 ### Other Projects
 
-I have not been just coding DarkBot, I also have another project. Chloebot. Sometimes, if someone requests, I will make a custom bot for them. For now, it is private. Want to go to the main site? [Click Here](https://darkkdeveloper.github.io)
+I have not been just coding Cloud2, I also have another project. Chloebot. Sometimes, if someone requests, I will make a custom bot for them. For now, it is private. Want to go to the main site? [Click Here](https://darkkdeveloper.github.io)
 
 ### Invite Link
 
@@ -23,7 +23,7 @@ Like the bot? Well you may as well [invite](https://discord.com/api/oauth2/autho
 
 ### Help Develop DarkBot
 
-[Click Here!](https://forms.gle/v5wjJ5WcPoqRvyzM6)
+Currently Closed.
 
 
 ### Upsides and Downsides
@@ -38,27 +38,40 @@ Moderation Works | No Warn Command
 #### Logo Updates
 
 
-Old
+Start - 22/09/2020
+
+Swirl
 
 ![Swirl (Old)](https://cdn.discordapp.com/attachments/753022422122364991/757811197658529892/images_5.jpeg)
 
 
-Current
+22/09/2020 - 28/09/2020
+
+DarkBot
 
 ![DarkBot (Current)](https://cdn.discordapp.com/attachments/753022422122364991/757811382820405338/images_1.jpg)
+
+28/09/2020 - Now
+
+Cloud2
+
+![Cloud2](https://cdn.discordapp.com/attachments/753025370982449152/760032952951635998/download_4.jpg)
 
 #### Name Changes
 
 Start - 22/09/2020
 Swirl
 
-22/09/2020 - Now
+22/09/2020 - 28/09/2020
 DarkBot
 
+28/09/2020 - Now
+Cloud2
 
 
 
 
 
 
-###### DarkBot 2020
+
+###### Cloud2
