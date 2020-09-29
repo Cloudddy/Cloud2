@@ -7,7 +7,7 @@ Want to experiment with DarkBot before you start? [Join our Discord!](https://di
 
 ### About
 
-DarkBot is coded by the newcomer for coding, DarkDev#3743. DarkkBot was coded in discord.py, a Python Discord API Wrapper 🐍. 
+Cloud2 is coded by the newcomer for coding, Cloud (H₂O)#3743. Cloud2 was coded in discord.py, a Python Discord API Wrapper 🐍. 
 
 ### Source Code
 
@@ -15,13 +15,13 @@ Want the source code? [Click Here!](https://github.com/Cloudddy/Cloud2/blob/gh-p
 
 ### Other Projects
 
-I have not been just coding Cloud2, I also have another project. Chloebot. Sometimes, if someone requests, I will make a custom bot for them. For now, it is private. Want to go to the main site? [Click Here](https://darkkdeveloper.github.io)
+I have not been just coding Cloud2, I also have another project. Chloebot. Sometimes, if someone requests, I will make a custom bot for them. For now, it is private. Want to go to the main site? [Click Here](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ### Invite Link
 
 Like the bot? Well you may as well [invite](https://discord.com/api/oauth2/authorize?client_id=749823850660757545&permissions=268453894&redirect_uri=https%3A%2F%2Fdarkkdev.github.io%2F&scope=bot) it!
 
-### Help Develop DarkBot
+### Help Develop Cloud2
 
 Currently Closed.
 
